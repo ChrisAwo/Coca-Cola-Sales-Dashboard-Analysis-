@@ -3,9 +3,9 @@
 
 ## Project Overview
 
-This project looks at Coca-Cola’s 2022 sales in the United States across different products. The goal was to understand how sales change over the year and which products performed best.
+This project analyzes Coca-Cola’s 2022 sales performance across multiple beverage products in the United States. It explores monthly sales trends and product-level performance to identify seasonal patterns, high-performing products, and revenue distribution across the portfolio.
 
-I used an interactive Power BI dashboard to explore monthly trends and compare product performance.
+The dashboard provides an interactive view of sales behavior across time and product categories, helping to uncover key business trends such as seasonal spikes and underperforming segments.
 
 ---
 
@@ -44,9 +44,9 @@ I used an interactive Power BI dashboard to explore monthly trends and compare p
 
 ## Recommendations
 
-- Stock more products before peak months like **July and December** to meet demand.
-- Try to boost sales during slower months (especially **Jan–April**) with promotions or discounts.
-- Focus more marketing on weaker products like **Fanta and Sprite** to improve performance.
-- Keep leveraging strong performers like **Coke and Dasani Water** since they drive most of the revenue.
-- It would also be useful to compare this with other years to see if the same patterns repeat.
+- Increase stock and distribution planning ahead of peak months (especially June–July and November–December) to maximize revenue.
+- Develop targeted marketing campaigns during low-performing months (January–April) to stabilize demand.
+- Strengthen promotional strategies for underperforming products such as Fanta and Sprite.
+- Leverage high-performing core products (Coca-Cola and Dasani Water) as anchor products in seasonal campaigns.
+- Conduct deeper multi-year analysis to confirm whether observed patterns are consistent over time.
 
