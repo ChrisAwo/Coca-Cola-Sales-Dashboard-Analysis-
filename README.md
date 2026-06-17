@@ -11,33 +11,24 @@ I used an interactive Power BI dashboard to explore monthly trends and compare p
 
 ## Tools Used
 
-- Excel (for organizing the data)
-- Power BI (for building the dashboard and visuals)
+- Excel (Data preparation and structuring)
+- Power BI (Data visualization and dashboard development)
 
 ---
 
-## Dashboard Overview
+## Dashboard Preview
 
-The dashboard is split into different pages:
-
-- **Home / Executive Dashboard:** Shows overall monthly sales trends  
-- **Coca-Cola page:** Performance of Coca-Cola specifically  
-- **Fanta page:** Sales performance and trends  
-- **Sprite page:** Product comparison and trends  
-- **Diet Coke page:** Sales breakdown  
-- **Powerade page:** Performance overview  
-- **Dasani Water page:** Water sales and trend analysis  
 
 ---
 
-## What I Found
+## Key Insights and Findings
 
-- Sales are clearly seasonal. The biggest spikes happen in **July and December**, likely because of holidays and higher consumer demand.
-- The lowest sales happen at the beginning of the year (around **January to April**), which makes sense since people are usually spending less after the holidays.
-- Coca-Cola is the top-performing product overall in terms of revenue.
-- Dasani Water also performs very well, probably because it’s a daily essential product.
-- Products like Fanta and Sprite don’t perform as strongly compared to Coke and water.
-- Sales gradually pick up again mid-year before peaking in the summer and holiday season.
+- Sales show strong seasonal patterns, with major peaks in July and December, likely driven by holidays and increased consumer demand.
+- The lowest sales periods occur between January and April, indicating post-holiday demand decline and seasonal consumer behavior shifts.
+- Coca-Cola remains the top-performing product in terms of revenue and overall contribution.
+- Dasani Water also shows strong performance, likely due to its status as a daily essential product.
+- Lower-performing products such as Fanta and Sprite show relatively weaker demand compared to core products like Coke and water.
+- Mid-year recovery suggests demand stabilizes after early-year decline, leading into peak holiday sales.
 
 ---
 
