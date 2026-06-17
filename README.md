@@ -1,5 +1,3 @@
-# Coca-Cola-Sales-Dashboard-Analysis-
-Coca-Cola analysis
 
 # Coca-Cola 2022 Sales Analysis Dashboard
 
