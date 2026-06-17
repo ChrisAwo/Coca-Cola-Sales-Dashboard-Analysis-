@@ -12,12 +12,22 @@ I used an interactive Power BI dashboard to explore monthly trends and compare p
 ## Tools Used
 
 - Excel (Data preparation and structuring)
+
+![Overview](cocacola/1)
+
 - Power BI (Data visualization and dashboard development)
 
 ---
 
 ## Dashboard Preview
 
+![Overview](cocacola/1)
+![Coca-Cola](cocacola/2)
+![Fanta](cocacola/3)
+![Sprite](cocacola/4)
+![Diet Coke](cocacola/5)
+![Powerade](cocacola/6)
+![Dasani Water](cocacola/7)
 
 ---
 
@@ -40,16 +50,3 @@ I used an interactive Power BI dashboard to explore monthly trends and compare p
 - Keep leveraging strong performers like **Coke and Dasani Water** since they drive most of the revenue.
 - It would also be useful to compare this with other years to see if the same patterns repeat.
 
----
-
-## Dashboard Preview
-
-cocacola
-
-![Overview](cocacola/1)
-![Coca-Cola](cocacola/2)
-![Fanta](cocacola/3)
-![Sprite](cocacola/4)
-![Diet Coke](cocacola/5)
-![Powerade](cocacola/6)
-![Dasani Water](cocacola/7)
