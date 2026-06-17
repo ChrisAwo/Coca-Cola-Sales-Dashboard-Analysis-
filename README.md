@@ -13,7 +13,7 @@ I used an interactive Power BI dashboard to explore monthly trends and compare p
 
 - Excel (Data preparation and structuring)
 
-![Overview](cocacola/1)
+![Overview](cocacola/8)
 
 - Power BI (Data visualization and dashboard development)
 
