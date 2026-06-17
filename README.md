@@ -44,10 +44,12 @@ I used an interactive Power BI dashboard to explore monthly trends and compare p
 
 ## Dashboard Preview
 
-![Overview](Coke/overview.png)
-![Coca-Cola](Coke/coke.png)
-![Fanta](Coke/fanta.png)
-![Sprite](Coke/sprite.png)
-![Diet Coke](Coke/diet.png)
-![Powerade](Coke/powerade.png)
-![Dasani Water](Coke/dasani.png)
+cocacola
+
+![Overview](cocacola/1)
+![Coca-Cola](cocacola/2)
+![Fanta](cocacola/3)
+![Sprite](cocacola/4)
+![Diet Coke](cocacola/5)
+![Powerade](cocacola/6)
+![Dasani Water](cocacola/7)
