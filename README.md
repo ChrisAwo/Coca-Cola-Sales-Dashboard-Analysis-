@@ -1,5 +1,5 @@
 
-# Coca-Cola 2022 Sales Analysis Dashboard
+# Coca-Cola 2022 Sales Analysis Dashboard (Excel, Power BI)
 
 ## Project Overview
 
